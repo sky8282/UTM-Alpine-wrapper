@@ -1,5 +1,5 @@
 # UTM-Alpine-wrapper
-## 基于 UTM 虚拟机的 Alpine3.20 系统镜像,自带 wrapper 与管理器
+## 基于 UTM (ARM)虚拟机的 Alpine3.20 系统镜像,自带 wrapper 与管理器
 * **UTM项目**：https://github.com/utmapp/UTM  (镜像使用4.7.4 版本生成)
 * **wrapper项目**：https://github.com/zhaarey/wrapper  或 https://github.com/WorldObservationLog/wrapper
 * **wrapper管理器v1版**：https://github.com/sky8282/wrapper-manager-v1
