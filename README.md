@@ -39,13 +39,12 @@ mp4decrypt
 ### ***** 运行下载器如提示未装 Go 或者需要升级 Go 版本，请自行问 ai 操作步骤
 * * * 
 
-## ✨ 首次开机自动启动 wrapper 管理器，如未启动请执行:
-
-### 前台启动：
+## ✨ 启动 wrapper 管理器:
+### 前台启动( 方便查看后台日志 )：
 ```text
 cd /root/wrapper && ./wrapper-manager
 ```
-### 后台启动：
+### 后台启动( 可以关闭 ssh 工具 )：
 ```text
 cd /root/wrapper && nohup ./wrapper-manager > /dev/null 2>&1 &
 ```
